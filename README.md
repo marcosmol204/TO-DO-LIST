@@ -1,8 +1,8 @@
 # To-Do-List
 Personal task management system
 ## Stack
-Vanilla JS
-SCSS
+Vanilla JS  
+SCSS  
 Local Store
 ### Deploy
 [Click](https://todolist-yarden-marcos.netlify.app/)
