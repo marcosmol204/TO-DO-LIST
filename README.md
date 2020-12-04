@@ -5,6 +5,7 @@ Vanilla JS
 SCSS
 Local Store
 ### Deploy
-URL
+[Click](https://todolist-yarden-marcos.netlify.app/)
+#### Views
 ![](https://i.ibb.co/R3SNwf7/Todo.png)
 
