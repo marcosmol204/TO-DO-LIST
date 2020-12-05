@@ -1,4 +1,4 @@
-# To-Do-List  
+# Priority
 Personal task management system  
 ## Stack  
 Vanilla JS  
